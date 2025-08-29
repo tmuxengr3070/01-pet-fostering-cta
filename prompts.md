@@ -31,3 +31,6 @@ Add the phone.png image at the end of each contact number in the div class "even
 
 ## Prompt 7
 Add a horizontal main navigation bar centered below the header-class "site-header" and h2 Pet Quest with a home, about and contact us buttons styled as a white, eye-catching buttons with black text that stands out against the background. Add spacing between each button. 
+
+## Prompt 8
+Add a horizontal bottom navigation bar centered at the bottom, inside the closing </body> tag, with a home, about and contact us buttons styled as bright, eye-catching buttons that stands out against the background. Add spacing between each button.
