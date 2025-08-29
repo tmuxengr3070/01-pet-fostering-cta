@@ -34,3 +34,6 @@ Add a horizontal main navigation bar centered below the header-class "site-heade
 
 ## Prompt 8
 Add a horizontal smaller bottom navigation bar centered at the bottom, inside the closing </body> tag, with a home, about and contact us hyperlinks styled as bright, eye-catching fonts that stands out against the background. Add spacing between each hyperlink.
+
+## Prompt 9
+Add a class selector to each phone number text in the Contact Information section. Give each phone number a foreground color of darkblue wiith a font weight of bold.

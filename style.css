@@ -130,11 +130,6 @@ body {
   width: 48%;
 }
 
-.phone-number {
-  color: darkblue
-  font-weight: bold;
-}
-
 /* Phone icon styles for contact info */
 .phone-icon {
   vertical-align: middle;
