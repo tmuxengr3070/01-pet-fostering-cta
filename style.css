@@ -183,6 +183,29 @@ body {
   color: #2196b6;
 }
 
+/* Small bottom navigation bar styles */
+.bottom-small-nav {
+  text-align: center;
+  margin-top: 28px;
+  margin-bottom: 10px;
+}
+
+/* Bright, eye-catching bottom nav links */
+.bottom-small-link {
+  color: #2196b6; /* bright blue */
+  font-weight: bold;
+  font-size: 1em;
+  text-decoration: none;
+  margin: 0 18px; /* spacing between links */
+  font-family: 'Segoe UI', Arial, sans-serif;
+  transition: color 0.2s;
+}
+
+.bottom-small-link:hover {
+  color: #2ee2c6; /* bright teal on hover */
+  text-decoration: underline;
+}
+
 /* Responsive: stack columns on small screens */
 @media (max-width: 700px) {
   .info-image,
