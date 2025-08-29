@@ -22,3 +22,9 @@ Set img/cta-bg.jpg as the background image for the banner. Apply a light overlay
 
 ## Prompt 4
 Below the banner, create a new section that displays the image 'img/pet.jpg' alongside additional information about fostering pets. Arrange them in two evenly sized columns, centered on the page.
+
+## Prompt 5
+Add a new section below the info-section using semantic HTML. Display img/pet_foster_1.jpg and information about national pet fostering events in two columns. List three business contacts in a separate paragraph.
+
+## Prompt 6
+Add the phone.png image at the end of each contact number in the div class "events-section". Resize each phone icon image appropriate for each area.
