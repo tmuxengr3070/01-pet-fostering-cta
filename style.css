@@ -153,6 +153,12 @@ body {
   height: 16px;
 }
 
+/* Style for phone numbers in Contact Information */
+.phone-number {
+  color: #102a54; /* dark blue */
+  font-weight: bold;
+}
+
 /* Main navigation bar styles */
 .main-nav {
   text-align: center;
