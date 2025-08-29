@@ -8,17 +8,13 @@ body {
 
 /* Style the CTA banner */
 .cta-banner {
-  background-image: url('img/cta-bg.jpg');
-  background-size: cover;
-  background-position: center;
-  /* Add a light overlay using a semi-transparent background color */
-  background-color: rgba(33, 150, 182, 0.85); /* blue-teal with opacity */
-  background-blend-mode: lighten;
+  background: rgba(33, 150, 182, 0.85) url('img/cta-bg.jpg') center/cover no-repeat;
   color: #ffffff;
   text-align: center;
-  padding-top: 100px;   /* increased for taller banner */
-  padding-bottom: 100px; /* increased for taller banner */
-  /* Make the banner tall and visually striking */
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-blend-mode: overlay;
+  
 }
 
 /* Large main heading */
