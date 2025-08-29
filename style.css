@@ -130,6 +130,29 @@ body {
   width: 48%;
 }
 
+/* Phone icon styles for contact info */
+.phone-icon {
+  vertical-align: middle;
+  margin-left: 6px;
+  border: none;
+}
+
+/* Different sizes for each phone icon */
+.phone-icon-1 {
+  width: 18px;
+  height: 18px;
+}
+
+.phone-icon-2 {
+  width: 20px;
+  height: 20px;
+}
+
+.phone-icon-3 {
+  width: 16px;
+  height: 16px;
+}
+
 /* Responsive: stack columns on small screens */
 @media (max-width: 700px) {
   .info-image,

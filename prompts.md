@@ -27,4 +27,7 @@ Below the banner, create a new section that displays the image 'img/pet.jpg' alo
 Add a new section below the info-section using semantic HTML. Display img/pet_foster_1.jpg and information about national pet fostering events in two columns. List three business contacts in a separate paragraph.
 
 ## Prompt 6
-Add the phone.png image at the end of each contact number in the div class "events-section". Resize each phone icon image appropriate for each area.
+Add the phone.png image at the end of each contact number in the div class "events-section". Resize each phone icon image appropriate for each area and make each phone.png image functional to call their respective number with a single left mouse click or finger touch. 
+
+## Prompt 7
+Add a horizontal main navigation bar centered below the header-class "site-header" and h2 Pet Quest with a home, about and contact us buttons styled as a white, eye-catching buttons with black text that stands out against the background. Add spacing between each button. 
