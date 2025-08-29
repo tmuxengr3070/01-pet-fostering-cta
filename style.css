@@ -8,7 +8,7 @@ body {
 
 /* Style the CTA banner */
 .cta-banner {
-  background: rgba(33, 150, 182, 1.15) url('img/cta-bg.jpg') center/cover no-repeat;
+  background: rgba(33, 150, 182, 0.65) url('img/cta-bg.jpg') center/cover no-repeat;
   color: #ffffff;
   text-align: center;
   padding-top: 100px;
