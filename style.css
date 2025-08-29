@@ -103,15 +103,45 @@ body {
   width: 48%;
 }
 
+/* Events section below info-section */
+.events-section {
+  width: 80%;
+  max-width: 900px;
+  margin: 40px auto 0 auto;
+  overflow: auto;
+  background: #f4fcfd;
+  border-radius: 8px;
+  padding: 32px 16px;
+}
+
+/* Events image column */
+.events-image {
+  float: left;
+  width: 48%;
+  max-width: 320px;
+  margin-right: 4%;
+  border-radius: 15px;
+  display: block;
+}
+
+/* Events text column */
+.events-text {
+  float: left;
+  width: 48%;
+}
+
 /* Responsive: stack columns on small screens */
 @media (max-width: 700px) {
   .info-image,
-  .info-text {
+  .info-text,
+  .events-image,
+  .events-text {
     float: none;
     width: 100%;
     margin: 0 0 20px 0;
   }
-  .info-section {
+  .info-section,
+  .events-section {
     padding: 20px 8px;
   }
 }
