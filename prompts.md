@@ -37,3 +37,6 @@ Add a horizontal smaller bottom navigation bar centered at the bottom, inside th
 
 ## Prompt 9
 Add a class selector to each phone number text in the Contact Information section. Give each phone number a foreground color of darkblue wiith a font weight of bold.
+
+## Prompt 10
+Add a button with title Gallery to the main navigation bar with white background, black text and spacing between the about and contact us buttons with spacing.
