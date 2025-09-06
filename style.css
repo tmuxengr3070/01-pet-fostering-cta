@@ -213,6 +213,12 @@ body {
   text-decoration: underline;
 }
 
+/* Centered content for contact section */
+.centered-contact {
+  text-align: center;
+  margin-top: 20px;
+}
+
 /* Responsive: stack columns on small screens */
 @media (max-width: 700px) {
   .info-image,
